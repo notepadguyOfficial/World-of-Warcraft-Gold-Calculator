@@ -2,4 +2,4 @@
 > A Gold Calculation Tool that automatically Convert Gold value to Database Value
 
 ## Requirements
-> - Visual Studio 2022 Community
+- Visual Studio 2022 Community
