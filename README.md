@@ -1,2 +1,2 @@
 # World-of-Warcraft-Gold-Calculator
- Calculation Tool
+> A Gold Calculation Tool that automatically Convert Gold value to Database Value
